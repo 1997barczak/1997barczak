@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1997barczak
+- 👋 Hi, I’m Bartek
 - 👀 I’m interested in learning some front-end basics
 
 
