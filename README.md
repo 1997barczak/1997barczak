@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @1997barczak
 - 👀 I’m interested in learning some front-end basics
-- 🌱 I’m currently learning HTML&CSS
 
 
 <!---
