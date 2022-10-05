@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Bartek
-- 👀 I’m interested in learning some front-end basics
-
+👋 Hi, I’m Bartek
 
 <!---
 1997barczak/1997barczak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
